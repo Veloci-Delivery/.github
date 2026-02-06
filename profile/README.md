@@ -30,15 +30,6 @@ Utilizamos tecnologia como aliada para escalar operações, melhorar rotas e ofe
 
 ---
 
-## 🤝 Parcerias
-Trabalhamos lado a lado com:
-- Restaurantes
-- Mercados
-- Farmácias
-- Lojas locais
-
----
-
 ## 📫 Contato
 📧 Email: contato@velocidelivery.com  
 🌐 Site: [Link](https://velocidelivery.com.br)
