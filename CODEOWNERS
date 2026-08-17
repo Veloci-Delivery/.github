@@ -1,0 +1,11 @@
+# CODEOWNERS Global da Veloci-Delivery
+
+# Todo PR envolvendo infraestrutura, actions e docker
+# Exige obrigatoriamente a revisão e autorização do Tech Lead (@jvS0uzx)
+/.github/workflows/  @jvS0uzx
+*docker-compose*.yml @jvS0uzx
+Dockerfile           @jvS0uzx
+.env*                @jvS0uzx
+
+# Para o restante do código, @HenriqueSZ5 ou @jvS0uzx podem revisar.
+*                    @jvS0uzx @HenriqueSZ5
